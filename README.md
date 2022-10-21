@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eai eu sou Vilson, muito prazer :octocat:
 
-<!--
-**vjlcode/vjlcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: [@vilsonjesuino](https://www.linkedin.com/in/vilson-j-a11648245/)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Um pouco sobre mim 😄
+
+Sou autodidata e estudante de Análise e Desenvolvimento de Sistemas pela [Faculdade Vincit](https://www.faculdadevincit.edu.br/).
+
+Estou iniciando minha carreira como desenvolvedor fullstack, com Java no back-end e Javascript/Typescript/Angular no front-end, também tenho muito interesse em aprender a linguagem C/C++ para projetos em robótica.
+
+Sou completamente apaixonado por essas tecnologias, em especial Java⚡.
